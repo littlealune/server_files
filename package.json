@@ -1,7 +1,7 @@
 {
   "name": "server-files",
   "version": "1.0.0",
-  "homepage": "https://littlealune.git.io/server-files",
+  "homepage": "https://littlealune.github.io/server-files",
   "description": "## Descripción",
   "main": "accounts.js",
   "scripts": {
